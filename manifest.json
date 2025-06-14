@@ -15,7 +15,7 @@
     }
   ],
   "icons": {
-    "48": "assets/icon48.jpg",
-    "128": "assets/icon128.jpg"
+    "128": "assets/icon128.png",
+    "48": "assets/icon48.png"
   }
 }
