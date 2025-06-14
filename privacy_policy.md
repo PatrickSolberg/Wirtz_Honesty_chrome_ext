@@ -35,4 +35,4 @@ This privacy policy may be updated in the future. Any changes will be reflected 
 
 ## Contact
 For any privacy-related questions, please contact:
-thezonerdot@gmailcom 
+thezonerdot@gmail.com 
