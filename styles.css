@@ -1,6 +1,5 @@
 .wirtz-search-btn {
-    background-color: #1DA1F2;
-    color: white;
+    color: rgb(113, 118, 123);
     border: none;
     border-radius: 20px;
     padding: 8px 16px;
@@ -12,9 +11,6 @@
 }
 
 .wirtz-search-btn:hover {
-    background-color: #1a91da;
+    color: #1a91da;
+    text-shadow: 1 1 15px #1681bf;
 }
-
-.wirtz-search-btn:active {
-    background-color: #1681bf;
-} 
