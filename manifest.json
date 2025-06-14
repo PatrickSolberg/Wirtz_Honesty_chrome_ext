@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
   "name": "X Wirtz Search",
+  "author": "Patrick S.",
   "version": "1.0",
-  "description": "Adds a button to search for user's posts about Wirtz",
+  "description": "Adds a button to search for user's posts about Wirtz before his move (then rumored) to Liverpool FC.",
   "permissions": [
     "activeTab"
   ],
