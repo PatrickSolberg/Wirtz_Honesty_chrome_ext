@@ -2,15 +2,23 @@
     color: rgb(113, 118, 123);
     border: none;
     border-radius: 20px;
-    padding: 8px 16px;
+    padding: 4px;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
     margin-left: 12px;
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, color 0.2s;
 }
 
 .wirtz-search-btn:hover {
+    background: linear-gradient(to right, #000000, #DD0000, #FFCE00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: none;
+}
+
+.wirtz-search-btn:active {
     color: #1a91da;
     text-shadow: 1 1 15px #1681bf;
 }
