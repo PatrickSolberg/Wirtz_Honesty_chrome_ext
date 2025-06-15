@@ -14,7 +14,8 @@ function addSearchButton(article) {
     // Create button
     const button = document.createElement('button');
     button.className = 'wirtz-search-btn';
-    button.textContent = 'Wirtz';
+    button.textContent = 'W';
+    button.title = 'Search for Wirtz posts';
     
     // Add click handler
     button.addEventListener('click', () => {
