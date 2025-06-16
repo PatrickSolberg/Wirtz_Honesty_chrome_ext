@@ -13,11 +13,6 @@ This extension:
 - Does not use any analytics
 - Does not use any cookies
 
-## Permissions
-The extension only requires the "activeTab" permission, which is used to:
-- Add the Wirtz search button to X/Twitter pages
-- Open search queries in new tabs
-
 ## Data Usage
 The extension:
 - Only modifies the X/Twitter interface to add a button
