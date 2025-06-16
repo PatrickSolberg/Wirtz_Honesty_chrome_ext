@@ -25,9 +25,7 @@ function addSearchButton(article) {
 
     // Find the action bar (where the like, retweet buttons are)
     const actionBar = article.querySelector('[role="group"]');
-    if (actionBar) {
-        actionBar.appendChild(button);
-    }
+    actionBar.appendChild(button);
 }
 
 // Function to observe DOM changes
